@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/Delapouite/base16-json#readme",
   "dependencies": {
-    "base16": "^1.0.0"
+    "base16": "https://github.com/marconett/base16-js"
   }
 }
